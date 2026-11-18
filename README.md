@@ -202,7 +202,7 @@ Git tracks the changes made to files in a project. A commit saves a selected set
 Run these commands from the root of the repository:
 
 ```bash
-git status    # git-status - Show the working tree status
+git status                # git-status - Show the working tree status
 git diff
 git add README.md
 git status
